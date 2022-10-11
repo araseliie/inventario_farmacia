@@ -1,4 +1,4 @@
-<?php 
+<?php
 	require_once('include/session.php');
 	$expired_menu=1;
 ?>
@@ -13,7 +13,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Medicamentos vencidos - Sistema de Inventario FARMACIA CLUB DE LA SALUD</title>
+    <title>Medicamentos caducado - Sistema de Inventario FARMACIA CLUB DE LA SALUD</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
