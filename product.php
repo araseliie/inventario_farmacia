@@ -1,5 +1,5 @@
-<?php 
-	require_once('include/session.php'); 
+<?php
+	require_once('include/session.php');
 	$products_menu=1;
 ?>
 <!DOCTYPE html>
@@ -13,7 +13,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Lista de productos - Sistema de Inventario FARMACIA CLUB DE LA SALUD</title>
+    <title>Lista de productos - Sistema de Inventario </title>
 
     <!-- Bootstrap Core CSS -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
